@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/main.cpp.dir/ConcreteObersver.cpp.o CMakeFiles/main.cpp.dir/ConcreteSubject.cpp.o CMakeFiles/main.cpp.dir/Obersver.cpp.o CMakeFiles/main.cpp.dir/Subject.cpp.o CMakeFiles/main.cpp.dir/main.cpp.o -o main.cpp 
